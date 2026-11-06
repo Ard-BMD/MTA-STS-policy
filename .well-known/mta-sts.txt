@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
-mx: bmdadviesrijndelta-nl.r-v1.mx.microsoft
+mx: bmdadviesrijndelta-nl.mail.protection.outlook.com
 max_age: 900
