@@ -1,1 +1,4 @@
-
+version: STSv1
+mode: testing
+mx: bmdadviesrijndelta-nl.r-v1.mx.microsoft
+max_age: 900
